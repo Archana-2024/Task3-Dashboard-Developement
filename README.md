@@ -7,15 +7,15 @@ This dataset provides information about freelancer earnings and job trends acros
 Data Cleaning and Preprocessing-
 
 The following preprocessing steps were applied to ensure data quality:
-1.Removed duplicate entries
-2.Standardized currency values to USD
-3.Normalized job category names
-4.Filled missing values using
+  1. Removed duplicate entries
+  2. Standardized currency values to USD
+  3. Normalized job category names
+  4. Filled missing values using
 
 Dashboard Creation-
-1.Loaded Excel file on Tableau public
-2.created required charts according to data
-3.analysed the charts and provided insights and recommendations.
+1. Loaded Excel file on Tableau public
+2. created required charts according to data
+3. analysed the charts and provided insights and recommendations.
 
 Insights-
 1. The dataset contains 1950 freelancer records with 15 features.
